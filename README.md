@@ -1,1 +1,1 @@
- LapTimer Android
+ LapTimer
